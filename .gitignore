@@ -1,0 +1,10 @@
+# pliki Pythona
+__pycache__/
+*.py[cod]
+
+# pliki IDE (PyCharm, IntelliJ)
+.idea/
+
+# pliki systemowe
+.DS_Store
+Thumbs.db
